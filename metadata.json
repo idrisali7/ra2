@@ -1,0 +1,6 @@
+{
+  "name": "مشغل RA2",
+  "description": "مشغل ومُهيئ ألعاب ويندوز و Red Alert 2 على أندرويد ببنية ARM64 مع إدارة الملفات الأصلية والمودات، وضع ملء الشاشة، 60 إطار بالثانية، وتحكم كامل باللمس.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
