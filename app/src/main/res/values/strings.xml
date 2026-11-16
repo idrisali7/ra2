@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">مشغل RA2</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_files">الملفات والمودات</string>
+    <string name="nav_graphics">الرسوميات و ARM64</string>
+    <string name="nav_system">الجسر والتصدير</string>
+    <string name="hero_banner_desc">غلاف مركز قيادة Red Alert 2</string>
+    <string name="launch_touch_mode">تشغيل بوضع اللمس 60 FPS</string>
+</resources>
